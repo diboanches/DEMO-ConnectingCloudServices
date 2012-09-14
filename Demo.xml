@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Demo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
 	<Id>ConnectingCloudServices</Id>
+	<Technologies>
+		<Technology>Windows Azure</Technology>
+	</Technologies>
 	<Author>
 		<Name>sklein</Name>
 		<Blog></Blog>
@@ -12,7 +15,7 @@
 	<Version>1.1.0</Version>
 	<Source>Source</Source>
 	<DependencyChecker>Setup\Dependencies.depi</DependencyChecker>
-	<CustomProperties>    
+	<CustomProperties>
 		<Property Name="GitHubRepository" Value="https://github.com/WindowsAzure-TrainingKit/Demo-ConnectingCloudServices" />
 	</CustomProperties>
 </Demo>
