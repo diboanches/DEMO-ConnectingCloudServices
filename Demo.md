@@ -128,4 +128,4 @@ This demo is composed of the following segments:
 <a name="summary" />
 ## Summary ##
 
-In this demonstration you have seen how to provision a simple cloud only virtual network that allows you to directly connect a cloud service with a traditional Windows Azure PaaS webrole directly to a cloud service hosting full SQL Server. 
+In this demonstration you saw how to provision a simple cloud only virtual network that allows you to directly connect a cloud service with a traditional Windows Azure PaaS webrole directly to a cloud service hosting full SQL Server. 
