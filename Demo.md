@@ -60,7 +60,7 @@ This demo is composed of the following segments:
 
 	> **Important** - Name the VNET **MyVNET-1** because MyVNET will already exist.
 
-	![Creating a Virtual Network](images/creating-a-virtual-network.png?raw=true "Creating a Virtual Network")
+	![Creating a Virtual Network](Images/creating-a-virtual-network.png?raw=true "Creating a Virtual Network")
 
 	_Creating a Virtual Network_
 
@@ -76,7 +76,7 @@ This demo is composed of the following segments:
 	>
 	> Do not configure data disks and deploy the VM - just walk through the wizard to show connectivity to the VNET. Note that you have already done this in another SQL VM. 
 
-	![Provisioning a new VM](images/provisioning-a-new-vm.png?raw=true "Provisioning a new VM")
+	![Provisioning a new VM](Images/provisioning-a-new-vm.png?raw=true "Provisioning a new VM")
 	
 	_Provisioning a new VM_
 
@@ -85,7 +85,7 @@ This demo is composed of the following segments:
 
 1. Select the **AppSubnet** Subnet.
 
-	![VM Options](images/vm-options.png?raw=true "VM Options")
+	![VM Options](Images/vm-options.png?raw=true "VM Options")
 	
 	_VM Options_
 
@@ -101,7 +101,7 @@ This demo is composed of the following segments:
 
 1. Run **IPConfig** to retrieve the SQL Server IP address.
 
-	![IPConfig](images/ipconfig.png?raw=true "IPConfig")
+	![IPConfig](Images/ipconfig.png?raw=true "IPConfig")
 	
 	_Getting the IP of the SQL Server VM_
 
@@ -119,7 +119,7 @@ This demo is composed of the following segments:
 
 1. Browse to running site - demonstrate search.
 
-	![Browsing the Application](images/browsing-the-web-site.png?raw=true "Browsing the Application")
+	![Browsing the Application](Images/browsing-the-web-site.png?raw=true "Browsing the Application")
 
 	_Browsing the Application_
 
