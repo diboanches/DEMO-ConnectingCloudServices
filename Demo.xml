@@ -7,7 +7,7 @@
 	<Description>This demonstration will show how to connect a traditional Windows Azure Web role to a virtual machine running SQL server using a virtual network.</Description>  
 	<Document ConversionType="Html">.\Demo.md</Document>
 	<Title>Connecting Cloud Services</Title>
-	<Version>1.0.0</Version>
+	<Version>1.0.1</Version>
 	<Source>Source</Source>
 	<DependencyChecker>.\Source\Setup\Dependencies.depi</DependencyChecker>
 	<CustomProperties>    
