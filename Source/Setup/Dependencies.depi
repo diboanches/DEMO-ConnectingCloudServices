@@ -7,7 +7,7 @@
 			name="Microsoft Visual Studio 2012"
 			description="Microsoft Visual Studio Ultimate 2012, Microsoft Visual Studio Premium 2012, Microsoft Visual Studio Professional 2012 or Microsoft Visual Studio 2012 Express for Windows 8"
 			helpLink="http://go.microsoft.com/fwlink/?LinkId=240160"
-			disableSkip="true"
+			disableSkip="false"
 			type="Uninstall" />
     </dependencies>	
 </DependencyCheckerConfiguration>
