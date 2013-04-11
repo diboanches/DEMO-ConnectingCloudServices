@@ -69,6 +69,8 @@ This demo is composed of the following segments:
 
 1. Provision a new virtual machine using the SQL Server evaluation edition into the virtual network to demonstrate how virtual machines get into the virtual network. 
 
+1. Select the **AppSubnet** Subnet.
+
 	> **Note:** Use the initial steps from **Exercise 1** of the **Connecting a PaaS application to an IaaS Application with a Virtual Network** hands-on lab to walk through the virtual machine creation gallery experience. 
 	>
 	> Do not configure data disks and deploy the virtual machine- just walk through the wizard to show connectivity to the virtual network. Note that you have already done this in another SQL virtual machines. 
@@ -79,11 +81,6 @@ This demo is composed of the following segments:
 
 	> **Speaking Point:** Explain that in order to connect you will select the virtual network to join the virtual machine to the virtual network you just created.
 
-1. Select the **AppSubnet** Subnet.
-
-	![Virtual Machine Options](Images/vm-options.png?raw=true "virtual machine Options")
-	
-	_Virtual Machine Options_
 
 <a name="segment3" />
 ### Segment 3: Configure Windows Azure Cloud Service Project ###
