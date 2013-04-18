@@ -17,7 +17,7 @@ In this demo, you will see these things:
 1.	Configure a SQL server virtual machine.
 1.	Connecting a web role to the Windows Azure Virtual Network.
 1.	Taking advantage of full SQL server from a web role.
-1.	This configuration is low latency and highly secure as the web role and the virtual machineare on the same virtual network.
+1.	This configuration is low latency and highly secure as the web role and the virtual machine are on the same virtual network.
 
 <a name="technologies" />
 ### Key Technologies ###
@@ -89,7 +89,7 @@ This demo is composed of the following segments:
 
 1. Log into the already configured SQL Server.
 
-	> **Speaking Point:** To have the application connect to the SQL Server I need the IP address. Virtual network solutions do not have out-of-the-box name resolution. 
+	> **Speaking Point:** To have the application connected to the SQL Server I need the IP address. Virtual network solutions do not have out-of-the-box name resolution. 
 
 1. Run **IPConfig** to retrieve the SQL Server IP address.
 
